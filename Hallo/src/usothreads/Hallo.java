@@ -10,5 +10,6 @@ public class Hallo {
         int r = 3;
         int rs = s*r;
         System.out.println(rs);
+        System.out.println("Hola!");
     }
 }
